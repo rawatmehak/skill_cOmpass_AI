@@ -1,0 +1,82 @@
+{
+  "Full Stack Developer": {
+    "required_skills": [
+      "JavaScript", "React", "Node.js", "Express", "MongoDB", 
+      "PostgreSQL", "Git", "REST API", "HTML", "CSS"
+    ],
+    "nice_to_have": [
+      "TypeScript", "Docker", "AWS", "Redis", "GraphQL"
+    ],
+    "experience_level": "Mid-Senior",
+    "avg_salary_usd": 95000
+  },
+  "Data Scientist": {
+    "required_skills": [
+      "Python", "Machine Learning", "Pandas", "NumPy", "SQL",
+      "scikit-learn", "Data Visualization", "Statistics"
+    ],
+    "nice_to_have": [
+      "TensorFlow", "PyTorch", "Deep Learning", "AWS", "Spark",
+      "R", "Tableau", "Power BI"
+    ],
+    "experience_level": "Mid-Senior",
+    "avg_salary_usd": 110000
+  },
+  "Frontend Developer": {
+    "required_skills": [
+      "JavaScript", "React", "HTML", "CSS", "TypeScript",
+      "Git", "Responsive Design"
+    ],
+    "nice_to_have": [
+      "Vue.js", "Angular", "Webpack", "Jest", "Redux", "Next.js"
+    ],
+    "experience_level": "Junior-Mid",
+    "avg_salary_usd": 80000
+  },
+  "Backend Developer": {
+    "required_skills": [
+      "Python", "Node.js", "SQL", "REST API", "Git",
+      "Database Design", "Authentication"
+    ],
+    "nice_to_have": [
+      "Django", "Flask", "Express", "MongoDB", "Redis",
+      "Docker", "Microservices", "AWS"
+    ],
+    "experience_level": "Mid-Senior",
+    "avg_salary_usd": 90000
+  },
+  "Machine Learning Engineer": {
+    "required_skills": [
+      "Python", "Machine Learning", "TensorFlow", "PyTorch",
+      "Deep Learning", "scikit-learn", "Git", "Model Deployment"
+    ],
+    "nice_to_have": [
+      "Docker", "Kubernetes", "AWS", "MLOps", "Spark",
+      "Computer Vision", "NLP"
+    ],
+    "experience_level": "Senior",
+    "avg_salary_usd": 130000
+  },
+  "DevOps Engineer": {
+    "required_skills": [
+      "Docker", "Kubernetes", "CI/CD", "Linux", "Git",
+      "AWS", "Terraform", "Monitoring"
+    ],
+    "nice_to_have": [
+      "Jenkins", "Ansible", "Python", "Bash", "Azure", "GCP"
+    ],
+    "experience_level": "Mid-Senior",
+    "avg_salary_usd": 105000
+  },
+  "Mobile Developer": {
+    "required_skills": [
+      "React Native", "JavaScript", "Mobile UI", "Git",
+      "REST API", "State Management"
+    ],
+    "nice_to_have": [
+      "Swift", "Kotlin", "Flutter", "Firebase", "Push Notifications"
+    ],
+    "experience_level": "Mid",
+    "avg_salary_usd": 85000
+  }
+}

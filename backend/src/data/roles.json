@@ -1,0 +1,14 @@
+[
+  {
+    "role": "Frontend Developer",
+    "requiredSkills": ["HTML", "CSS", "JavaScript", "React", "Git"]
+  },
+  {
+    "role": "Backend Developer",
+    "requiredSkills": ["Node.js", "Express", "MongoDB", "API Design", "JWT"]
+  },
+  {
+    "role": "AI Engineer",
+    "requiredSkills": ["Python", "Machine Learning", "Data Structures", "TensorFlow", "NLP"]
+  }
+]

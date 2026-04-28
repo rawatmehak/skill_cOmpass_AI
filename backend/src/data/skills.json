@@ -1,0 +1,17 @@
+[
+  { "name": "HTML", "demand": 70, "growth": 60, "difficulty": 20 },
+  { "name": "CSS", "demand": 68, "growth": 58, "difficulty": 30 },
+  { "name": "JavaScript", "demand": 90, "growth": 88, "difficulty": 50 },
+  { "name": "React", "demand": 84, "growth": 90, "difficulty": 45 },
+  { "name": "Git", "demand": 65, "growth": 50, "difficulty": 35 },
+  { "name": "Node.js", "demand": 80, "growth": 85, "difficulty": 60 },
+  { "name": "Express", "demand": 78, "growth": 82, "difficulty": 55 },
+  { "name": "MongoDB", "demand": 75, "growth": 83, "difficulty": 58 },
+  { "name": "API Design", "demand": 74, "growth": 80, "difficulty": 65 },
+  { "name": "JWT", "demand": 66, "growth": 81, "difficulty": 70 },
+  { "name": "Python", "demand": 92, "growth": 94, "difficulty": 45 },
+  { "name": "Machine Learning", "demand": 89, "growth": 97, "difficulty": 78 },
+  { "name": "Data Structures", "demand": 85, "growth": 87, "difficulty": 75 },
+  { "name": "TensorFlow", "demand": 72, "growth": 90, "difficulty": 80 },
+  { "name": "NLP", "demand": 70, "growth": 95, "difficulty": 82 }
+]

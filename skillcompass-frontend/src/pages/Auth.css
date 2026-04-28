@@ -1,0 +1,86 @@
+.auth-page {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(135deg, #93c5fd, #bfdbfe, #c7d2fe);
+  background-size: 300% 300%;
+  animation: bgFlow 10s ease infinite;
+  font-family: "Poppins", sans-serif;
+  padding: 20px;
+}
+
+@keyframes bgFlow {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.auth-card {
+  background: rgba(255, 255, 255, 0.85);
+  padding: 40px 50px;
+  border-radius: 20px;
+  backdrop-filter: blur(12px);
+  box-shadow: 0 20px 45px rgba(0, 0, 0, 0.15);
+  width: 90%;
+  max-width: 450px;
+  text-align: center;
+}
+
+.auth-card h1 {
+  font-size: 2rem;
+  color: #1e3a8a;
+  margin-bottom: 20px;
+}
+
+.auth-form input {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  border: 1px solid #cbd5e1;
+  font-size: 1rem;
+}
+
+.auth-form input:focus {
+  border-color: #2563eb;
+  outline: none;
+}
+
+.auth-form button {
+  width: 100%;
+  padding: 12px;
+  background: #2563eb;
+  color: white;
+  border: none;
+  font-weight: 600;
+  font-size: 1rem;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.auth-form button:hover {
+  background: #1e40af;
+}
+
+.error {
+  color: red;
+  margin-bottom: 10px;
+}
+
+.auth-note {
+  margin-top: 15px;
+  color: #475569;
+}
+
+.auth-note a {
+  color: #2563eb;
+  font-weight: bold;
+}

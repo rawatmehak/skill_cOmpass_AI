@@ -1,0 +1,154 @@
+{
+  "Python": {
+    "courses": [
+      {
+        "name": "Python for Everybody (Coursera)",
+        "url": "https://www.coursera.org/specializations/python",
+        "type": "course",
+        "duration": "8 weeks",
+        "difficulty": "beginner"
+      },
+      {
+        "name": "Automate the Boring Stuff with Python",
+        "url": "https://automatetheboringstuff.com/",
+        "type": "book",
+        "difficulty": "beginner"
+      }
+    ],
+    "practice": [
+      {
+        "name": "LeetCode Python Problems",
+        "url": "https://leetcode.com/problemset/all/?difficulty=Easy&listId=python",
+        "type": "practice"
+      },
+      {
+        "name": "Real Python Tutorials",
+        "url": "https://realpython.com/",
+        "type": "tutorials"
+      }
+    ]
+  },
+  "React": {
+    "courses": [
+      {
+        "name": "React - The Complete Guide (Udemy)",
+        "url": "https://www.udemy.com/course/react-the-complete-guide-incl-redux/",
+        "type": "course",
+        "duration": "49 hours",
+        "difficulty": "intermediate"
+      },
+      {
+        "name": "React Official Documentation",
+        "url": "https://react.dev/",
+        "type": "documentation",
+        "difficulty": "beginner"
+      }
+    ],
+    "practice": [
+      {
+        "name": "Build 15 React Projects",
+        "url": "https://www.freecodecamp.org/news/react-projects-for-beginners/",
+        "type": "projects"
+      }
+    ]
+  },
+  "Machine Learning": {
+    "courses": [
+      {
+        "name": "Machine Learning by Andrew Ng (Coursera)",
+        "url": "https://www.coursera.org/learn/machine-learning",
+        "type": "course",
+        "duration": "11 weeks",
+        "difficulty": "intermediate"
+      },
+      {
+        "name": "Fast.ai Practical Deep Learning",
+        "url": "https://www.fast.ai/",
+        "type": "course",
+        "duration": "7 weeks",
+        "difficulty": "intermediate"
+      }
+    ],
+    "practice": [
+      {
+        "name": "Kaggle Competitions",
+        "url": "https://www.kaggle.com/competitions",
+        "type": "practice"
+      }
+    ]
+  },
+  "Docker": {
+    "courses": [
+      {
+        "name": "Docker Mastery (Udemy)",
+        "url": "https://www.udemy.com/course/docker-mastery/",
+        "type": "course",
+        "duration": "19 hours",
+        "difficulty": "intermediate"
+      },
+      {
+        "name": "Docker Official Documentation",
+        "url": "https://docs.docker.com/get-started/",
+        "type": "documentation",
+        "difficulty": "beginner"
+      }
+    ],
+    "practice": [
+      {
+        "name": "Docker Labs",
+        "url": "https://github.com/docker/labs",
+        "type": "practice"
+      }
+    ]
+  },
+  "AWS": {
+    "courses": [
+      {
+        "name": "AWS Certified Solutions Architect",
+        "url": "https://aws.amazon.com/certification/certified-solutions-architect-associate/",
+        "type": "certification",
+        "duration": "3 months",
+        "difficulty": "intermediate"
+      },
+      {
+        "name": "AWS Free Tier Practice",
+        "url": "https://aws.amazon.com/free/",
+        "type": "practice",
+        "difficulty": "beginner"
+      }
+    ],
+    "practice": [
+      {
+        "name": "AWS Hands-On Tutorials",
+        "url": "https://aws.amazon.com/getting-started/hands-on/",
+        "type": "tutorials"
+      }
+    ]
+  },
+  "default": {
+    "courses": [
+      {
+        "name": "Search on Udemy",
+        "url": "https://www.udemy.com/",
+        "type": "platform"
+      },
+      {
+        "name": "Search on Coursera",
+        "url": "https://www.coursera.org/",
+        "type": "platform"
+      }
+    ],
+    "practice": [
+      {
+        "name": "YouTube Tutorials",
+        "url": "https://www.youtube.com/",
+        "type": "videos"
+      },
+      {
+        "name": "Official Documentation",
+        "url": "",
+        "type": "documentation"
+      }
+    ]
+  }
+}

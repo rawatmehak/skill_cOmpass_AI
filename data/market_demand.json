@@ -1,0 +1,162 @@
+{
+  "Python": {
+    "demand_score": 95,
+    "growth_rate": 15,
+    "job_postings": 85000,
+    "trend": "rising",
+    "saturation": "medium",
+    "avg_salary": 105000
+  },
+  "JavaScript": {
+    "demand_score": 98,
+    "growth_rate": 12,
+    "job_postings": 120000,
+    "trend": "stable",
+    "saturation": "high",
+    "avg_salary": 95000
+  },
+  "React": {
+    "demand_score": 92,
+    "growth_rate": 18,
+    "job_postings": 75000,
+    "trend": "rising",
+    "saturation": "medium",
+    "avg_salary": 100000
+  },
+  "Node.js": {
+    "demand_score": 88,
+    "growth_rate": 14,
+    "job_postings": 65000,
+    "trend": "rising",
+    "saturation": "medium",
+    "avg_salary": 98000
+  },
+  "Machine Learning": {
+    "demand_score": 90,
+    "growth_rate": 25,
+    "job_postings": 55000,
+    "trend": "rapidly_rising",
+    "saturation": "low",
+    "avg_salary": 125000
+  },
+  "AWS": {
+    "demand_score": 94,
+    "growth_rate": 20,
+    "job_postings": 70000,
+    "trend": "rising",
+    "saturation": "medium",
+    "avg_salary": 110000
+  },
+  "Docker": {
+    "demand_score": 85,
+    "growth_rate": 16,
+    "job_postings": 50000,
+    "trend": "rising",
+    "saturation": "medium",
+    "avg_salary": 105000
+  },
+  "MongoDB": {
+    "demand_score": 80,
+    "growth_rate": 10,
+    "job_postings": 45000,
+    "trend": "stable",
+    "saturation": "medium",
+    "avg_salary": 95000
+  },
+  "PostgreSQL": {
+    "demand_score": 82,
+    "growth_rate": 12,
+    "job_postings": 48000,
+    "trend": "stable",
+    "saturation": "medium",
+    "avg_salary": 95000
+  },
+  "TensorFlow": {
+    "demand_score": 87,
+    "growth_rate": 22,
+    "job_postings": 35000,
+    "trend": "rising",
+    "saturation": "low",
+    "avg_salary": 120000
+  },
+  "Django": {
+    "demand_score": 78,
+    "growth_rate": 8,
+    "job_postings": 40000,
+    "trend": "stable",
+    "saturation": "medium",
+    "avg_salary": 98000
+  },
+  "Flask": {
+    "demand_score": 72,
+    "growth_rate": 6,
+    "job_postings": 30000,
+    "trend": "stable",
+    "saturation": "medium",
+    "avg_salary": 92000
+  },
+  "TypeScript": {
+    "demand_score": 89,
+    "growth_rate": 20,
+    "job_postings": 60000,
+    "trend": "rising",
+    "saturation": "low",
+    "avg_salary": 105000
+  },
+  "Kubernetes": {
+    "demand_score": 86,
+    "growth_rate": 24,
+    "job_postings": 42000,
+    "trend": "rapidly_rising",
+    "saturation": "low",
+    "avg_salary": 115000
+  },
+  "Git": {
+    "demand_score": 99,
+    "growth_rate": 5,
+    "job_postings": 150000,
+    "trend": "stable",
+    "saturation": "very_high",
+    "avg_salary": 0
+  },
+  "SQL": {
+    "demand_score": 96,
+    "growth_rate": 7,
+    "job_postings": 100000,
+    "trend": "stable",
+    "saturation": "high",
+    "avg_salary": 90000
+  },
+  "Angular": {
+    "demand_score": 75,
+    "growth_rate": 3,
+    "job_postings": 35000,
+    "trend": "declining",
+    "saturation": "high",
+    "avg_salary": 95000
+  },
+  "Vue.js": {
+    "demand_score": 79,
+    "growth_rate": 15,
+    "job_postings": 28000,
+    "trend": "rising",
+    "saturation": "low",
+    "avg_salary": 98000
+  },
+  "Express": {
+    "demand_score": 84,
+    "growth_rate": 11,
+    "job_postings": 52000,
+    "trend": "stable",
+    "saturation": "medium",
+    "avg_salary": 95000
+  },
+  "Redis": {
+    "demand_score": 77,
+    "growth_rate": 13,
+    "job_postings": 32000,
+    "trend": "rising",
+    "saturation": "low",
+    "avg_salary": 100000
+  }
+}

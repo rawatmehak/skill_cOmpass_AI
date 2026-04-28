@@ -1,0 +1,256 @@
+{
+  "skill_graph": {
+    "HTML": {
+      "prerequisites": [],
+      "difficulty": "beginner",
+      "estimated_hours": 20,
+      "category": "frontend"
+    },
+    "CSS": {
+      "prerequisites": ["HTML"],
+      "difficulty": "beginner",
+      "estimated_hours": 25,
+      "category": "frontend"
+    },
+    "JavaScript": {
+      "prerequisites": ["HTML", "CSS"],
+      "difficulty": "beginner",
+      "estimated_hours": 40,
+      "category": "frontend"
+    },
+    "TypeScript": {
+      "prerequisites": ["JavaScript"],
+      "difficulty": "intermediate",
+      "estimated_hours": 20,
+      "category": "frontend"
+    },
+    "React": {
+      "prerequisites": ["JavaScript"],
+      "difficulty": "intermediate",
+      "estimated_hours": 35,
+      "category": "frontend"
+    },
+    "Redux": {
+      "prerequisites": ["React"],
+      "difficulty": "intermediate",
+      "estimated_hours": 15,
+      "category": "frontend"
+    },
+    "Next.js": {
+      "prerequisites": ["React"],
+      "difficulty": "intermediate",
+      "estimated_hours": 20,
+      "category": "frontend"
+    },
+    "Vue.js": {
+      "prerequisites": ["JavaScript"],
+      "difficulty": "intermediate",
+      "estimated_hours": 30,
+      "category": "frontend"
+    },
+    "Angular": {
+      "prerequisites": ["JavaScript", "TypeScript"],
+      "difficulty": "intermediate",
+      "estimated_hours": 40,
+      "category": "frontend"
+    },
+    "Python": {
+      "prerequisites": [],
+      "difficulty": "beginner",
+      "estimated_hours": 30,
+      "category": "backend"
+    },
+    "Git": {
+      "prerequisites": [],
+      "difficulty": "beginner",
+      "estimated_hours": 10,
+      "category": "tools"
+    },
+    "SQL": {
+      "prerequisites": [],
+      "difficulty": "beginner",
+      "estimated_hours": 25,
+      "category": "database"
+    },
+    "Django": {
+      "prerequisites": ["Python"],
+      "difficulty": "intermediate",
+      "estimated_hours": 35,
+      "category": "backend"
+    },
+    "Flask": {
+      "prerequisites": ["Python"],
+      "difficulty": "intermediate",
+      "estimated_hours": 20,
+      "category": "backend"
+    },
+    "FastAPI": {
+      "prerequisites": ["Python"],
+      "difficulty": "intermediate",
+      "estimated_hours": 15,
+      "category": "backend"
+    },
+    "Node.js": {
+      "prerequisites": ["JavaScript"],
+      "difficulty": "intermediate",
+      "estimated_hours": 30,
+      "category": "backend"
+    },
+    "Express": {
+      "prerequisites": ["Node.js"],
+      "difficulty": "intermediate",
+      "estimated_hours": 20,
+      "category": "backend"
+    },
+    "MongoDB": {
+      "prerequisites": [],
+      "difficulty": "beginner",
+      "estimated_hours": 25,
+      "category": "database"
+    },
+    "PostgreSQL": {
+      "prerequisites": ["SQL"],
+      "difficulty": "intermediate",
+      "estimated_hours": 30,
+      "category": "database"
+    },
+    "MySQL": {
+      "prerequisites": ["SQL"],
+      "difficulty": "intermediate",
+      "estimated_hours": 25,
+      "category": "database"
+    },
+    "Redis": {
+      "prerequisites": [],
+      "difficulty": "intermediate",
+      "estimated_hours": 15,
+      "category": "database"
+    },
+    "Docker": {
+      "prerequisites": [],
+      "difficulty": "intermediate",
+      "estimated_hours": 25,
+      "category": "devops"
+    },
+    "Kubernetes": {
+      "prerequisites": ["Docker"],
+      "difficulty": "advanced",
+      "estimated_hours": 40,
+      "category": "devops"
+    },
+    "AWS": {
+      "prerequisites": [],
+      "difficulty": "intermediate",
+      "estimated_hours": 50,
+      "category": "cloud"
+    },
+    "Azure": {
+      "prerequisites": [],
+      "difficulty": "intermediate",
+      "estimated_hours": 45,
+      "category": "cloud"
+    },
+    "GCP": {
+      "prerequisites": [],
+      "difficulty": "intermediate",
+      "estimated_hours": 45,
+      "category": "cloud"
+    },
+    "Machine Learning": {
+      "prerequisites": ["Python"],
+      "difficulty": "intermediate",
+      "estimated_hours": 60,
+      "category": "ml_ai"
+    },
+    "Deep Learning": {
+      "prerequisites": ["Machine Learning", "Python"],
+      "difficulty": "advanced",
+      "estimated_hours": 70,
+      "category": "ml_ai"
+    },
+    "TensorFlow": {
+      "prerequisites": ["Python", "Machine Learning"],
+      "difficulty": "intermediate",
+      "estimated_hours": 40,
+      "category": "ml_ai"
+    },
+    "PyTorch": {
+      "prerequisites": ["Python", "Machine Learning"],
+      "difficulty": "intermediate",
+      "estimated_hours": 40,
+      "category": "ml_ai"
+    },
+    "scikit-learn": {
+      "prerequisites": ["Python"],
+      "difficulty": "beginner",
+      "estimated_hours": 25,
+      "category": "ml_ai"
+    },
+    "Pandas": {
+      "prerequisites": ["Python"],
+      "difficulty": "beginner",
+      "estimated_hours": 20,
+      "category": "data"
+    },
+    "NumPy": {
+      "prerequisites": ["Python"],
+      "difficulty": "beginner",
+      "estimated_hours": 15,
+      "category": "data"
+    },
+    "Data Visualization": {
+      "prerequisites": ["Python", "Pandas"],
+      "difficulty": "intermediate",
+      "estimated_hours": 25,
+      "category": "data"
+    },
+    "Statistics": {
+      "prerequisites": [],
+      "difficulty": "intermediate",
+      "estimated_hours": 40,
+      "category": "data"
+    },
+    "NLP": {
+      "prerequisites": ["Python", "Machine Learning"],
+      "difficulty": "advanced",
+      "estimated_hours": 50,
+      "category": "ml_ai"
+    },
+    "Computer Vision": {
+      "prerequisites": ["Python", "Machine Learning"],
+      "difficulty": "advanced",
+      "estimated_hours": 55,
+      "category": "ml_ai"
+    },
+    "REST API": {
+      "prerequisites": [],
+      "difficulty": "beginner",
+      "estimated_hours": 15,
+      "category": "backend"
+    },
+    "GraphQL": {
+      "prerequisites": ["REST API"],
+      "difficulty": "intermediate",
+      "estimated_hours": 20,
+      "category": "backend"
+    },
+    "CI/CD": {
+      "prerequisites": ["Git"],
+      "difficulty": "intermediate",
+      "estimated_hours": 25,
+      "category": "devops"
+    },
+    "Terraform": {
+      "prerequisites": [],
+      "difficulty": "intermediate",
+      "estimated_hours": 30,
+      "category": "devops"
+    },
+    "Jenkins": {
+      "prerequisites": ["CI/CD"],
+      "difficulty": "intermediate",
+      "estimated_hours": 20,
+      "category": "devops"
+    }
+  }
+}

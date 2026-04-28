@@ -1,0 +1,44 @@
+{
+  "programming_languages": [
+    "Python", "JavaScript", "Java", "C++", "C#", "Go", "Rust", "TypeScript",
+    "PHP", "Ruby", "Swift", "Kotlin", "Scala", "R", "MATLAB"
+  ],
+  "web_frameworks": [
+    "React", "Angular", "Vue.js", "Node.js", "Express", "Django", "Flask",
+    "FastAPI", "Spring Boot", "ASP.NET", "Laravel", "Ruby on Rails"
+  ],
+  "databases": [
+    "MongoDB", "PostgreSQL", "MySQL", "Redis", "Cassandra", "DynamoDB",
+    "Oracle", "SQL Server", "SQLite", "Firebase"
+  ],
+  "cloud_platforms": [
+    "AWS", "Azure", "Google Cloud", "GCP", "Heroku", "DigitalOcean",
+    "Vercel", "Netlify"
+  ],
+  "ml_ai": [
+    "Machine Learning", "Deep Learning", "TensorFlow", "PyTorch", "Keras",
+    "scikit-learn", "NLP", "Computer Vision", "OpenCV", "Transformers"
+  ],
+  "tools": [
+    "Git", "Docker", "Kubernetes", "Jenkins", "GitHub Actions", "CI/CD",
+    "Terraform", "Ansible", "Jira", "Postman"
+  ],
+  "soft_skills": [
+    "Communication", "Leadership", "Problem Solving", "Teamwork",
+    "Critical Thinking", "Agile", "Scrum"
+  ],
+  
+  "skill_aliases": {
+    "Node": "Node.js",
+    "React.js": "React",
+    "Vue": "Vue.js",
+    "JS": "JavaScript",
+    "TS": "TypeScript",
+    "Mongo": "MongoDB",
+    "Postgres": "PostgreSQL",
+    "K8s": "Kubernetes",
+    "ML": "Machine Learning",
+    "DL": "Deep Learning",
+    "CV": "Computer Vision"
+  }
+}
